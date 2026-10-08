@@ -1,0 +1,10 @@
+{
+  "name": "Skatepark Bowling",
+  "short_name": "Skate Bowling",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111a22",
+  "theme_color": "#131d27",
+  "description": "One-thumb gravity-powered wooden skatepark bowling"
+}
